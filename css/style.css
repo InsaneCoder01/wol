@@ -1,0 +1,64 @@
+body {
+  background-color: #E4F9F5;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 5px;
+  width: 2%;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.pareto-principle{
+  width: 500px;
+  height: 300px;
+}
+
+.locus-of-control{
+  width: 500px;
+  height: 300px;
+}
+
+.pomodoro-technique{
+  width: 500px;
+  height: 500px;
+}
+.feynmesn-model{
+  width: 700px;
+  height: 300px;
+}
